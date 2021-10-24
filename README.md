@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with API documentation
 - 💬 Ask me about Confluence or any product documentation related stuff
-- 📫 How to reach me: manikantadas.kg@gmail.com
+- 📫 How to reach me: [manikantadas.kg@gmail.com](url)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I groove to the music everyday
 -->
